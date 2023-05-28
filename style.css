@@ -45,3 +45,8 @@ th {
 .table {
   padding-bottom: 30px;
 }
+
+.route-send-index {
+  display: flex;
+  justify-content: space-between;
+}
