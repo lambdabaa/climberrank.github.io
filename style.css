@@ -50,3 +50,8 @@ th {
   display: flex;
   justify-content: space-between;
 }
+
+.crag {
+  cursor: pointer;
+  text-decoration: underline;
+}
