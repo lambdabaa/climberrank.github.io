@@ -55,3 +55,9 @@ th {
   cursor: pointer;
   text-decoration: underline;
 }
+
+.user > h1,
+.route > h1 {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
