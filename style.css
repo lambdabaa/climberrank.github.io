@@ -69,3 +69,7 @@ th {
 .inactive {
   font-weight: normal !important;
 }
+
+.navbar input {
+  max-width: 250px;
+}
