@@ -73,3 +73,38 @@ th {
 .navbar input {
   max-width: 250px;
 }
+
+.national-rank-row {
+  font-style: italic;
+}
+
+.climb-page-name {
+  margin-right: 15px;
+}
+
+.user-section {
+  margin-top: 30px;
+}
+
+.user-section h3 {
+  margin-bottom: 15px;
+}
+
+.faq {
+  margin-top: 30px;
+}
+
+.faq table {
+  border: 1px solid black;
+  width: 300px;
+}
+
+.faq th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.faq td {
+  border: 1px solid black;
+  padding: 5px;
+}
